@@ -1,0 +1,22 @@
+[
+  { "codiceISTAT": "01", "nome": "Piemonte", "capoluogo": "Torino", "areaGeografica": "Nord-Ovest" },
+  { "codiceISTAT": "02", "nome": "Valle d’Aosta", "capoluogo": "Aosta", "areaGeografica": "Nord-Ovest" },
+  { "codiceISTAT": "03", "nome": "Lombardia", "capoluogo": "Milano", "areaGeografica": "Nord-Ovest" },
+  { "codiceISTAT": "04", "nome": "Trentino-Alto Adige", "capoluogo": "Trento", "areaGeografica": "Nord-Est" },
+  { "codiceISTAT": "05", "nome": "Veneto", "capoluogo": "Venezia", "areaGeografica": "Nord-Est" },
+  { "codiceISTAT": "06", "nome": "Friuli-Venezia Giulia", "capoluogo": "Trieste", "areaGeografica": "Nord-Est" },
+  { "codiceISTAT": "07", "nome": "Liguria", "capoluogo": "Genova", "areaGeografica": "Nord-Ovest" },
+  { "codiceISTAT": "08", "nome": "Emilia-Romagna", "capoluogo": "Bologna", "areaGeografica": "Nord-Est" },
+  { "codiceISTAT": "09", "nome": "Toscana", "capoluogo": "Firenze", "areaGeografica": "Centro" },
+  { "codiceISTAT": "10", "nome": "Umbria", "capoluogo": "Perugia", "areaGeografica": "Centro" },
+  { "codiceISTAT": "11", "nome": "Marche", "capoluogo": "Ancona", "areaGeografica": "Centro" },
+  { "codiceISTAT": "12", "nome": "Lazio", "capoluogo": "Roma", "areaGeografica": "Centro" },
+  { "codiceISTAT": "13", "nome": "Abruzzo", "capoluogo": "L’Aquila", "areaGeografica": "Sud" },
+  { "codiceISTAT": "14", "nome": "Molise", "capoluogo": "Campobasso", "areaGeografica": "Sud" },
+  { "codiceISTAT": "15", "nome": "Campania", "capoluogo": "Napoli", "areaGeografica": "Sud" },
+  { "codiceISTAT": "16", "nome": "Puglia", "capoluogo": "Bari", "areaGeografica": "Sud" },
+  { "codiceISTAT": "17", "nome": "Basilicata", "capoluogo": "Potenza", "areaGeografica": "Sud" },
+  { "codiceISTAT": "18", "nome": "Calabria", "capoluogo": "Catanzaro", "areaGeografica": "Sud" },
+  { "codiceISTAT": "19", "nome": "Sicilia", "capoluogo": "Palermo", "areaGeografica": "Isole" },
+  { "codiceISTAT": "20", "nome": "Sardegna", "capoluogo": "Cagliari", "areaGeografica": "Isole" }
+]

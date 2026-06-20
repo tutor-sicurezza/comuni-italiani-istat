@@ -1,0 +1,39 @@
+{
+  "name": "comuni-italiani-istat",
+  "version": "1.0.0",
+  "description": "Dataset JSON dei principali comuni italiani con codice ISTAT, regione, provincia, CAP, fascia popolazione e area geografica. Open data CC-BY 4.0.",
+  "main": "index.ts",
+  "types": "index.ts",
+  "files": [
+    "data/",
+    "index.ts",
+    "README.md",
+    "LICENSE",
+    "CITATION.cff"
+  ],
+  "keywords": [
+    "italy",
+    "italian-data",
+    "comuni",
+    "municipalities",
+    "istat",
+    "geographic-data",
+    "json",
+    "dataset",
+    "open-data",
+    "administrative-divisions",
+    "cap",
+    "regioni",
+    "province"
+  ],
+  "author": "tutor-sicurezza",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tutor-sicurezza/comuni-italiani-istat"
+  },
+  "bugs": {
+    "url": "https://github.com/tutor-sicurezza/comuni-italiani-istat/issues"
+  },
+  "homepage": "https://github.com/tutor-sicurezza/comuni-italiani-istat#readme"
+}
