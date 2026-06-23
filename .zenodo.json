@@ -1,0 +1,47 @@
+{
+  "title": "Comuni Italiani ISTAT — anagrafica completa comuni italiani",
+  "description": "Anagrafica completa degli oltre 7.900 comuni italiani con codice ISTAT, codice catastale (Belfiore), CAP, provincia, regione, popolazione, superficie, altitudine, zona altimetrica e classificazione sismica. Formato JSON e CSV, aggiornato con le ultime variazioni amministrative ISTAT (fusioni, scorpori) al 2026.",
+  "upload_type": "dataset",
+  "license": "CC-BY-SA-4.0",
+  "access_right": "open",
+  "language": "ita",
+  "keywords": [
+    "italy",
+    "comuni",
+    "istat",
+    "anagrafica",
+    "codice-catastale",
+    "cap",
+    "open-data",
+    "geocoding",
+    "amministrazione"
+  ],
+  "creators": [
+    {
+      "name": "123Formazione",
+      "affiliation": "CDS SERVICE SIC-LAV S.R.L.",
+      "orcid": null
+    }
+  ],
+  "communities": [
+    {"identifier": "open-data"},
+    {"identifier": "legal-informatics"}
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/tutor-sicurezza/comuni-italiani-istat",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://123formazione.com",
+      "relation": "isPartOf",
+      "scheme": "url"
+    }
+  ],
+  "references": [
+    "ISTAT — Elenco comuni italiani (aggiornamento corrente)",
+    "Agenzia delle Entrate — Codici catastali Belfiore"
+  ],
+  "publication_date": "2026-06-23"
+}
